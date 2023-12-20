@@ -2,7 +2,7 @@
 - 👀 I’m interested in Scuba Diving, Electronics, Game Development, Web Design, Buissness
 - 🖥️ I primarily code discord bots in JavaScript
 - 🌱 I’m currently learning C#, Electronics, Advanced Open Water Diver Course
-- 💞️ I’m looking to collaborate on Anything I put here to try improve
+- 💞️ I’m looking to collaborate on anything I put here to try improve
 - 📫 How to reach me Discord: MrEthλn#8605 or Email: mrcrew.ethan@gmail.com (or ethan@objectionstudios.com)
 
 <!---
