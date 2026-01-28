@@ -1,5 +1,7 @@
+- ill probably update this one day...
+
 - 👋 Hi, I’m @MrECrew
-- 👀 I’m interested in Scuba Diving, Electronics, Game Development, Web Design, Buissness
+- 👀 I’m interested in Scuba Diving, Electronics, Game Development, Web Design
 - 🖥️ I primarily code discord bots in JavaScript
 - 🌱 I’m currently learning C#, Electronics, Advanced Open Water Diver Course
 - 💞️ I’m looking to collaborate on anything I put here to try improve
