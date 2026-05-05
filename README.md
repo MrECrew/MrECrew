@@ -29,5 +29,5 @@ I __love__ Computer Science, the logic of how things work from top to bottom and
 I'm always open to communication and you can reach me along these lines:
 
 1. `@scriptedethan` (Discord)
-2. `ethan@objectionstudios.com` (Project Email)
+2. `ethan@noxiaproject.org` (Project Email)
 3. If you wish to contact me via my personal email or other means, please reach out over discord first!
